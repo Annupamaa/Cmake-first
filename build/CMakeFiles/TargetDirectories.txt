@@ -1,0 +1,3 @@
+/Users/anupama/Cmake_first/build/CMakeFiles/HelloWorld.dir
+/Users/anupama/Cmake_first/build/CMakeFiles/edit_cache.dir
+/Users/anupama/Cmake_first/build/CMakeFiles/rebuild_cache.dir
